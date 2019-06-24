@@ -283,11 +283,12 @@ namespace Do_An_Tri_Tue_Nhan_Tao
             text += "CHƯƠNG TRÌNH GIẢI BÀI TOÁN TAM GIÁC \n";
             text += "-------------------------------------------\n";
             text += "Giảng viên hướng dẫn: \n";
-            text += "\tTS. Lê Quyết Thắng \n";
+            text += "\tPGS.TS Đỗ Văn Nhơn\n";
             text += "Thực hiện: \n";
-            text = text + "\tTrần Linh Nga Phương" + "\t" + "B1411347" + "\n";
-            text = text + "\tLớp: CT311" + "\n\n";
-            text = text + "Trường Đại học Cần Thơ";
+            text = text + "\tLƯU THANH SƠN" + "\t" + "14520772" + "\n";
+            text = text + "\tĐỖ PHÚ AN" + "\t" + "14520002" + "\n";
+            text = text + "\tLớp: KHTN2014" + "\n\n";
+            text = text + "Trường Đại học Công nghệ thông tin - ĐHQG.TPHCM";
             MessageBox.Show(text, "Thông tin chương trình");
         }
 
